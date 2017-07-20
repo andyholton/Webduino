@@ -5,7 +5,7 @@ This is an Arduino-based Web Server library, originally developed for a class at
 ## Features
 
 - URL parameter parsing
-- Handle the following HTTP Methods: GET, HEAD, POST, PUT, DELETE, PATCH
+- Handle the following HTTP Methods: GET, HEAD, POST, PUT, DELETE, PATCH, OPTIONS
 - Web Forms
 - Images
 - JSON/RESTful interface
