@@ -10,7 +10,7 @@ This is an Arduino-based Web Server library, originally developed for a class at
 - Images
 - JSON/RESTful interface
 - HTTP Basic Authentication
-- Other awesome stuff
+- Other awesome stuff (and more!)
 
 ## Installation Notes
 
