@@ -11,6 +11,7 @@ This is an Arduino-based Web Server library, originally developed for a class at
 - JSON/RESTful interface
 - HTTP Basic Authentication
 - Other awesome stuff (and more!)
+- Connection to Polarion
 
 ## Installation Notes
 
